@@ -48,7 +48,7 @@ The F1 score and average precision score were chosen as performance metrics to a
 
 ## Data Visualization:
 
-![Kmer Frequencies (k=2) - Di-nucleotides Encoding](path/to/image.png)
+![Kmer Frequencies (k=2) - Di-nucleotides Encoding](Data-Vizualization.png)
 
 ## Resources:
 
